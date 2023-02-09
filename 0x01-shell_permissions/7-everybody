@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 562 hell0
+chmod 751 /0x01-shell_permissions/hello
