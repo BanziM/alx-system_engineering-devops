@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n1 iacta
+ls -la iacta | tail -1 | cp 
